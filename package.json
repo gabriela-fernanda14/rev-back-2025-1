@@ -12,5 +12,10 @@
     "Javascript"
   ],
   "author": "Gabriela Fernanda",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
 }
